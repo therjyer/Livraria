@@ -1,0 +1,26 @@
+{
+  "name": "livraria",
+  "version": "1.0.0",
+  "description": "alfa",
+  "main": "main.js",
+  "scripts": {
+    "test": "alt + c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therjyer/livraria.git"
+  },
+  "keywords": [
+    "book",
+    "livro",
+    "livraria",
+    "autores",
+    "conhecimento"
+  ],
+  "author": "therjyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/therjyer/livraria/issues"
+  },
+  "homepage": "https://github.com/therjyer/livraria#readme"
+}
